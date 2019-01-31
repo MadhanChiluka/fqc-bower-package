@@ -1,0 +1,17 @@
+{
+  "name": "fqc-signin",
+  "authors": [
+    "madhan <madhan.chiluka@gmail.com>"
+  ],
+  "description": "common signin function",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
